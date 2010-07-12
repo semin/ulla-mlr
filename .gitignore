@@ -1,0 +1,6 @@
+*.csv
+*.mat
+*.Rout
+*.lst
+toccata
+examples
